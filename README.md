@@ -1,3 +1,7 @@
+# Using correct satellite image
+
+![current](https://github.com/geohachi/West-Bengal-708/blob/master/current.png)
+
 # West-Bengal-708
 
 #708: Cyclone Amphan - Gosaba - Basanti, West Bengal
